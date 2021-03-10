@@ -10,7 +10,6 @@ body {
 .heading-primary {
     color: white;
     text-transform: uppercase;
-
     backface-visibility: hidden;
     margin-bottom: 6rem;
 
@@ -39,7 +38,6 @@ body {
         animation: moveInRight 1s ease-out;
     }
 }
-
 
 .heading-secondary {
     font-size: 3.5rem;
